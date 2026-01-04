@@ -41,36 +41,6 @@ I build **production-grade AI systems** that help businesses automate workflows,
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 AI-Powered PDF Q&A (RAG)
-Chat with PDFs using advanced retrieval techniques and LLMs  
-✔ High accuracy  
-✔ Low hallucination  
-✔ Production-ready  
-
-➡ Repo: _Coming Soon_
-
----
-
-### 🔹 AI Automation Agents
-Autonomous agents that perform tasks like:
-- reading documents
-- generating reports
-- calling APIs
-- automating workflows  
-
-➡ Repo: _Coming Soon_
-
----
-
-### 🔹 Document Intelligence System
-OCR + RAG system for structured document understanding  
-
-➡ Repo: _Coming Soon_
-
----
-
 ## 💼 Professional Experience
 
 - 3+ years of experience as an AI Engineer, specializing in building **production-ready AI systems**.
