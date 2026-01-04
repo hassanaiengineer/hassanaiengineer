@@ -83,6 +83,7 @@ OCR + RAG system for structured document understanding
 
 ## 📬 Let’s Connect
 
+📧 Email: hassanaiengineer@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/hassan-khan-4961b722b/  
 🔗 **Upwork:** https://www.upwork.com/freelancers/~016ca6a619d9683838  
 
