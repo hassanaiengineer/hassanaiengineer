@@ -78,10 +78,17 @@
 
 ---
 
-## 🤖 Dev Joke of the Day
+## 🤖 AI Engineering Humor
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=58a6ff&aColor=ffffff&borderColor=0d1117&bgColor=0d1117" alt="Jokes Card" />
 </p>
 
+> **"Why did the AI go to therapy?"**  
+> *Because it had too many hidden layers.*  
+>  
+> **"How many AI Engineers does it take to change a lightbulb?"**  
+> *None. They just train a model to predict the next bulb!*
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
