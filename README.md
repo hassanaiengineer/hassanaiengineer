@@ -1,5 +1,8 @@
-img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%E2%94%83%20RAG%20Expert%20%E2%94%83%20Document%20AI%20and%20OCR%20%E2%94%83%20LLM%20Systems%20in%20Production&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%E2%94%83%20RAG%20Expert%20%E2%94%83%20Document%20AI%20and%20OCR%20%E2%94%83%20LLM%20Systems%20in%20Production&descAlignY=55&descSize=18" width="100%"/>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+Systems+🤖;RAG+Expert+%26+Vector+Search+Specialist+📚;Advanced+OCR+%26+Document+Intelligence+📄;Architecting+Reliable+LLM+Solutions+🚀;4%2B+Years+of+Enterprise+AI+Experience+🧠" alt="Typing SVG" /></a>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -9,6 +12,7 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom
   &#8287;
   <a href="mailto:hassanaiengineer@gmail.com"><img height="35" alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hassanaiengineer&color=blue&style=flat-square" alt="Profile Views" />
 </p>
@@ -21,6 +25,7 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom
 - 🤖 **Senior AI Engineer** with **4+ years** of experience building **15+ production-ready AI systems**.
 - 🌟 **100% Job Success Rate** on Upwork with all 5-star reviews for reliability and quality.
 - 🚀 Specialized in **RAG Pipelines**, **Document AI and OCR**, and **Agentic Automation**.
+- 🏢 Currently working with **@CourtroomAI** on advanced enterprise document intelligence.
 - 📍 Based in **Islamabad, Pakistan**, delivering high-impact AI ownership globally 🌍.
 - 💬 Ask me about **complex layout extraction**, **hallucination prevention**, or **scalable LLM APIs**.
 - ⚡ **Fun fact:** I build systems that actually work with real-world messy data, not just demos 🛠️.
@@ -30,24 +35,25 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>👨‍💻 Core Skills</b></summary>
+<summary><b>👨‍💻 Architecture and Backend</b></summary>
 <br>
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white"></a>
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A.svg?style=flat-square&logo=n8n&logoColor=white"></a>
 </p>
 </details>
 
 <details open>
-<summary><b>🧠 Large Language Models & RAG</b></summary>
+<summary><b>🧠 Advanced AI and LLMs</b></summary>
 <br>
 <p>
     <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=openai&logoColor=white"></a>
+    <a href="#"><img alt="Claude" src="https://img.shields.io/badge/Anthropic%20Claude-D97757.svg?style=flat-square&logo=anthropic&logoColor=white"></a>
     <a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white"></a>
-    <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E.svg?style=flat-square&logoColor=black"></a>
     <a href="#"><img alt="Llama" src="https://img.shields.io/badge/Meta%20Llama-0467DF.svg?style=flat-square&logo=meta&logoColor=white"></a>
     <a href="#"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D92F7.svg?style=flat-square"></a>
 </p>
@@ -59,11 +65,10 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**Agentic RAG System**](https://github.com/hassanaiengineer/agentic-rag-system) | Enterprise-grade Agentic RAG with self-correction & multi-tenancy. | FastAPI, Gemini, ChromaDB, LangGraph |
-| [**RAG Tutorials**](https://github.com/hassanaiengineer/rag-tutorials-by-hassan-khan) | 30+ production-focused examples covering hybrid search & agentic RAG. | Python, LangChain, FAISS |
+| [**Agentic RAG System**](https://github.com/hassanaiengineer/agentic-rag-system) | Enterprise-grade Agentic RAG with self-correction and multi-tenancy. | FastAPI, Gemini, ChromaDB, LangGraph |
+| [**RAG Tutorials**](https://github.com/hassanaiengineer/rag-tutorials-by-hassan-khan) | 30+ production-focused examples covering hybrid search and agentic RAG. | Python, LangChain, FAISS |
 | [**Multi-Engine OCR**](https://github.com/hassanaiengineer/Multi-Engine-OCR) | High-accuracy OCR combining Docling and PaddleOCR for noisy docs. | Python, Docling, OpenCV |
 | [**Sarah Voice Agent**](https://github.com/hassanaiengineer/sarah-ai-voice-agent) | Real-time speech-to-speech AI voice agent for e-commerce support. | Python, PersonaPlex, FastAPI |
-| [**Rahnuma**](https://github.com/hassanaiengineer/-Rahnuma-) | A production-quality Urdu AI assistant for general conversations. | Python, LLM, Custom UI |
 
 ---
 
