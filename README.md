@@ -34,27 +34,97 @@
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>👨‍💻 Architecture and Backend</b></summary>
+<summary><b>🏗️ AI Systems Architecture & Backend</b></summary>
 <br>
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white"></a>
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A.svg?style=flat-square&logo=n8n&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20APIs-02569B.svg?style=flat-square"></a>
+    <a href="#"><img alt="Async" src="https://img.shields.io/badge/Async%20Processing-FF6F00.svg?style=flat-square"></a>
+    <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-6DB33F.svg?style=flat-square"></a>
 </p>
 </details>
 
 <details open>
-<summary><b>🧠 Advanced AI and LLMs</b></summary>
+<summary><b>🧠 LLM Engineering & RAG Systems</b></summary>
+<br>
+<p>
+    <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG%20Pipelines-1E90FF.svg?style=flat-square"></a>
+    <a href="#"><img alt="Agentic AI" src="https://img.shields.io/badge/Agentic%20Workflows-8A2BE2.svg?style=flat-square"></a>
+    <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat-square"></a>
+    <a href="#"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-FF9900.svg?style=flat-square"></a>
+    <a href="#"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-FF4B4B.svg?style=flat-square"></a>
+    <a href="#"><img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-4CAF50.svg?style=flat-square"></a>
+    <a href="#"><img alt="Evaluation" src="https://img.shields.io/badge/LLM%20Evaluation-9C27B0.svg?style=flat-square"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 LLM Providers & Local Models</b></summary>
 <br>
 <p>
     <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=openai&logoColor=white"></a>
-    <a href="#"><img alt="Claude" src="https://img.shields.io/badge/Anthropic%20Claude-D97757.svg?style=flat-square&logo=anthropic&logoColor=white"></a>
-    <a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=flat-square&logo=googlegemini&logoColor=white"></a>
-    <a href="#"><img alt="Llama" src="https://img.shields.io/badge/Meta%20Llama-0467DF.svg?style=flat-square&logo=meta&logoColor=white"></a>
-    <a href="#"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D92F7.svg?style=flat-square"></a>
+    <a href="#"><img alt="Claude" src="https://img.shields.io/badge/Claude-D97757.svg?style=flat-square"></a>
+    <a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2.svg?style=flat-square"></a>
+    <a href="#"><img alt="Llama" src="https://img.shields.io/badge/Llama-0467DF.svg?style=flat-square"></a>
+    <a href="#"><img alt="Mistral" src="https://img.shields.io/badge/Mistral-FF7000.svg?style=flat-square"></a>
+    <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?style=flat-square"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>🔍 Vector Search & Retrieval</b></summary>
+<br>
+<p>
+    <a href="#"><img alt="FAISS" src="https://img.shields.io/badge/FAISS-009688.svg?style=flat-square"></a>
+    <a href="#"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF4B4B.svg?style=flat-square"></a>
+    <a href="#"><img alt="Hybrid Search" src="https://img.shields.io/badge/Hybrid%20Search-1E90FF.svg?style=flat-square"></a>
+    <a href="#"><img alt="Semantic Search" src="https://img.shields.io/badge/Semantic%20Search-4CAF50.svg?style=flat-square"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>📄 Document AI & OCR</b></summary>
+<br>
+<p>
+    <a href="#"><img alt="OCR" src="https://img.shields.io/badge/OCR%20Systems-FF6F00.svg?style=flat-square"></a>
+    <a href="#"><img alt="Tesseract" src="https://img.shields.io/badge/Tesseract-4285F4.svg?style=flat-square"></a>
+    <a href="#"><img alt="PaddleOCR" src="https://img.shields.io/badge/PaddleOCR-D32F2F.svg?style=flat-square"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat-square"></a>
+    <a href="#"><img alt="PDF Processing" src="https://img.shields.io/badge/PDF%20Parsing-607D8B.svg?style=flat-square"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br>
+<p>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat-square&logo=redis&logoColor=white"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ DevOps & Deployment</b></summary>
+<br>
+<p>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED.svg?style=flat-square"></a>
+    <a href="#"><img alt="RunPod" src="https://img.shields.io/badge/RunPod-000000.svg?style=flat-square"></a>
+    <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white"></a>
+    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=flat-square&logo=nginx&logoColor=white"></a>
+    <a href="#"><img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-FF4081.svg?style=flat-square"></a>
+</p>
+</details>
+
+<details open>
+<summary><b>⚡ Automation & Workflow</b></summary>
+<br>
+<p>
+    <a href="#"><img alt="n8n" src="https://img.shields.io/badge/n8n-FF6D5A.svg?style=flat-square&logo=n8n&logoColor=white"></a>
+    <a href="#"><img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00.svg?style=flat-square&logo=zapier&logoColor=white"></a>
 </p>
 </details>
 
