@@ -26,8 +26,8 @@
 - 🚀 Built **15+ real-world AI systems** handling messy, unstructured, enterprise data  
 - 🔍 Specialized in **RAG architectures, hallucination control, and hybrid retrieval systems**  
 - ⚙️ Strong focus on **scalable FastAPI backends, async pipelines, and system reliability**  
-- 🌍 Working globally with **100% Job Success (5⭐) on Upwork**  
-- 📍 Based in **Islamabad, Pakistan**
+- 📍 Based in **Islamabad, Pakistan**, delivering high-impact AI ownership globally 🌍.
+- 💬 Ask me about **RAG failure modes**, **hallucination mitigation strategies**, or **designing scalable LLM APIs in production**.
 
 💡 *I don’t just integrate APIs — I design AI systems that actually work in production.*
 
