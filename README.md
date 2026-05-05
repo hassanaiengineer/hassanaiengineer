@@ -147,38 +147,24 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**Agentic RAG System**](https://github.com/hassanaiengineer/agentic-rag-system) | Enterprise-grade Agentic RAG with self-correction and multi-tenancy. | FastAPI, Gemini, ChromaDB, LangGraph |
-| [**RAG Tutorials**](https://github.com/hassanaiengineer/rag-tutorials-by-hassan-khan) | 30+ production-focused examples covering hybrid search and agentic RAG. | Python, LangChain, FAISS |
-| [**Multi-Engine OCR**](https://github.com/hassanaiengineer/Multi-Engine-OCR) | High-accuracy OCR combining Docling and PaddleOCR for noisy docs. | Python, Docling, OpenCV |
-| [**Sarah Voice Agent**](https://github.com/hassanaiengineer/sarah-ai-voice-agent) | Real-time speech-to-speech AI voice agent for e-commerce support. | Python, PersonaPlex, FastAPI |
-| [**Rahnuma**](https://github.com/hassanaiengineer/-Rahnuma-) | A production-quality Urdu AI assistant for general conversations. | Python, LLM, Custom UI |
+| [**Agentic RAG System**](https://github.com/hassanaiengineer/agentic-rag-system) | Production-ready Agentic RAG system with self-correction loops, hybrid retrieval (RRF), and multi-tenant architecture. | FastAPI, Gemini, ChromaDB, LangGraph |
+| [**RAG Tutorials**](https://github.com/hassanaiengineer/rag-tutorials-by-hassan-khan) | 30+ hands-on implementations covering naive → advanced RAG, hybrid search, reranking, and agent workflows. | Python, LangChain, FAISS |
+| [**Multi-Engine OCR**](https://github.com/hassanaiengineer/Multi-Engine-OCR) | High-accuracy OCR pipeline combining multiple engines with preprocessing for real-world noisy documents. | Python, Docling, OpenCV |
+| [**Sarah Voice Agent**](https://github.com/hassanaiengineer/sarah-ai-voice-agent) | Real-time conversational AI voice agent with speech-to-speech pipeline and contextual memory. | Python, FastAPI |
+| [**Rahnuma**](https://github.com/hassanaiengineer/-Rahnuma-) | Urdu conversational AI assistant with custom prompts and localized intelligence. | Python, LLM |
 
 ---
 
 ## 📊 GitHub Analytics
 
-
-
 <p align="center">
-  <img alt="Hassan's Streak Stats" src="https://streak-stats.demolab.com/?user=hassanaiengineer&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=hassanaiengineer&theme=dark&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img alt="Hassan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hassanaiengineer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=hassanaiengineer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
-
-## 🤖 AI Engineering Humor
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=58a6ff&aColor=ffffff&borderColor=0d1117&bgColor=0d1117" alt="Jokes Card" />
-</p>
-
-> **"Why did the AI go to therapy?"**  
-> *Because it had too many hidden layers.*  
->  
-> **"How many AI Engineers does it take to change a lightbulb?"**  
-> *None. They just train a model to predict the next bulb!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
