@@ -83,7 +83,6 @@
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=58a6ff&aColor=ffffff&borderColor=0d1117&bgColor=0d1117" alt="Jokes Card" />
 </p>
-
 > **"Why did the AI go to therapy?"**  
 > *Because it had too many hidden layers.*  
 >  
