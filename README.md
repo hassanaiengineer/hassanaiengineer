@@ -18,11 +18,12 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 **Bachelors in Artificial Intelligence**
-- 🤖 **AI Engineer** with over 3 years of experience building production-ready systems.
-- 🚀 Specialized in **Retrieval-Augmented Generation (RAG)** and **Agentic Workflows**.
-- 📍 Based in **Islamabad, Pakistan**, working with clients globally 🌍.
-- 💬 Ask me about **LLM fine-tuning**, **Vector Databases**, or **Scalable AI APIs**.
-- ⚡ **Fun fact:** I can explain the Transformer architecture using only coffee shop metaphors ☕.
+- 🤖 **Senior AI Engineer** with **4+ years** of experience building **15+ production-ready AI systems**.
+- 🌟 **100% Job Success Rate** on Upwork with all 5-star reviews for reliability and quality.
+- 🚀 Specialized in **RAG Pipelines**, **Document AI and OCR**, and **Agentic Automation**.
+- 📍 Based in **Islamabad, Pakistan**, delivering high-impact AI ownership globally 🌍.
+- 💬 Ask me about **complex layout extraction**, **hallucination prevention**, or **scalable LLM APIs**.
+- ⚡ **Fun fact:** I build systems that actually work with real-world messy data, not just demos 🛠️.
 
 ---
 
