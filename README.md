@@ -84,14 +84,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hassanaiengineer/hassanaiengineer/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
 ## 🤖 Dev Joke of the Day
 
 <p align="center">
