@@ -19,15 +19,17 @@
 
 ---
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
-- 🎓 **Bachelors in Artificial Intelligence**
-- 🤖 **Senior AI Engineer** with **4+ years** of experience building **15+ production-ready AI systems**.
-- 🌟 **100% Job Success Rate** on Upwork with all 5-star reviews for reliability and quality.
-- 🚀 Specialized in **RAG Pipelines**, **Document AI and OCR**, and **Agentic Automation**.
-- 📍 Based in **Islamabad, Pakistan**, delivering high-impact AI ownership globally 🌍.
-- 💬 Ask me about **complex layout extraction**, **hallucination prevention**, or **scalable LLM APIs**.
-- ⚡ **Fun fact:** I build systems that actually work with real-world messy data, not just demos 🛠️.
+- 🤖 **Senior AI Engineer** building **production-grade LLM systems**, not just demos  
+- 🧠 4+ years experience delivering **end-to-end AI platforms (RAG, Agents, OCR, Voice AI)**  
+- 🚀 Built **15+ real-world AI systems** handling messy, unstructured, enterprise data  
+- 🔍 Specialized in **RAG architectures, hallucination control, and hybrid retrieval systems**  
+- ⚙️ Strong focus on **scalable FastAPI backends, async pipelines, and system reliability**  
+- 🌍 Working globally with **100% Job Success (5⭐) on Upwork**  
+- 📍 Based in **Islamabad, Pakistan**
+
+💡 *I don’t just integrate APIs — I design AI systems that actually work in production.*
 
 ---
 
@@ -127,6 +129,17 @@
     <a href="#"><img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4A00.svg?style=flat-square&logo=zapier&logoColor=white"></a>
 </p>
 </details>
+---
+
+## 🧠 Core Expertise
+
+- 🔷 Designing **Agentic RAG Systems** with self-correction and multi-step reasoning  
+- 🔷 Building **Hybrid Search Pipelines (BM25 + Vector + RRF)**  
+- 🔷 Developing **Document Intelligence Systems (PDF → Structured Data)**  
+- 🔷 Handling **noisy OCR data and complex layouts**  
+- 🔷 Reducing **LLM hallucinations with retrieval + validation layers**  
+- 🔷 Creating **real-time AI APIs with streaming responses**  
+- 🔷 Deploying **LLM systems on GPU infra (RunPod, local models)**
 
 ---
 
