@@ -19,7 +19,6 @@
 
 - 🎓 **Bachelors in Artificial Intelligence**
 - 🤖 **AI Engineer** with over 3 years of experience building production-ready systems.
-- 🏢 Working with **@CourtroomAI** on advanced document intelligence.
 - 🚀 Specialized in **Retrieval-Augmented Generation (RAG)** and **Agentic Workflows**.
 - 📍 Based in **Islamabad, Pakistan**, working with clients globally 🌍.
 - 💬 Ask me about **LLM fine-tuning**, **Vector Databases**, or **Scalable AI APIs**.
@@ -69,10 +68,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img alt="Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hassanaiengineer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-  <img alt="Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanaiengineer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-</p>
+
 
 <p align="center">
   <img alt="Hassan's Streak Stats" src="https://streak-stats.demolab.com/?user=hassanaiengineer&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" />
