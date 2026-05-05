@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%7C%20LLM%20Chatbots%20%7C%20AI%20Agents&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+Systems+🤖;Retrieval-Augmented+Generation+(RAG)+Expert+📚;3%2B+Years+of+Experience+in+AI+Engineering+🚀;Architecting+Intelligent+AI+Agents+🧠;FastAPI+%7C+LangChain+%7C+Python+%7C+Docker" alt="Typing SVG" /></a>
-</p>
+
 
 <!-- Social icons section -->
 <p align="center">
