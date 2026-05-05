@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20RAG%20Systems%20%7C%20LLM%20Chatbots%20%7C%20AI%20Agents&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=RAG%20Expert%20%7C%20Document%20AI%20%26%20OCR%20%7C%20LLM%20Systems%20in%20Production&descAlignY=55&descSize=18" width="100%"/>
 
 
 
