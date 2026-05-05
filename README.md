@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=RAG%20Expert%20%7C%20Document%20AI%20%26%20OCR%20%7C%20LLM%20Systems%20in%20Production&descAlignY=55&descSize=18" width="100%"/>
 
 
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/hassan-khan-4961b722b/"><img height="35" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
