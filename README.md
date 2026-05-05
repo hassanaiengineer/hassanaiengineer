@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hassan%20Khan&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%E2%94%83%20RAG%20Expert%20%E2%94%83%20Document%20AI%20and%20OCR%20%E2%94%83%20LLM%20Systems%20in%20Production&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+Systems+🤖;RAG+Expert+%26+Vector+Search+Specialist+📚;Advanced+OCR+%26+Document+Intelligence+📄;Architecting+Reliable+LLM+Solutions+🚀;4%2B+Years+of+Enterprise+AI+Experience+🧠" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;RAG+Expert+and+Vector+Search+Specialist+%F0%9F%93%9A;Advanced+OCR+and+Document+Intelligence+%F0%9F%93%84;Architecting+Reliable+LLM+Solutions+%F0%9F%9A%80;4%2B+Years+of+Enterprise+AI+Experience+%F0%9F%A7%A0" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -69,6 +69,7 @@
 | [**RAG Tutorials**](https://github.com/hassanaiengineer/rag-tutorials-by-hassan-khan) | 30+ production-focused examples covering hybrid search and agentic RAG. | Python, LangChain, FAISS |
 | [**Multi-Engine OCR**](https://github.com/hassanaiengineer/Multi-Engine-OCR) | High-accuracy OCR combining Docling and PaddleOCR for noisy docs. | Python, Docling, OpenCV |
 | [**Sarah Voice Agent**](https://github.com/hassanaiengineer/sarah-ai-voice-agent) | Real-time speech-to-speech AI voice agent for e-commerce support. | Python, PersonaPlex, FastAPI |
+| [**Rahnuma**](https://github.com/hassanaiengineer/-Rahnuma-) | A production-quality Urdu AI assistant for general conversations. | Python, LLM, Custom UI |
 
 ---
 
