@@ -19,7 +19,7 @@
 
 - 🎓 **Bachelors in Artificial Intelligence**
 - 🤖 **AI Engineer** with over 3 years of experience building production-ready systems.
-- 🏢 Currently working with **@CourtroomAI** on advanced document intelligence.
+- 🏢 Working with **@CourtroomAI** on advanced document intelligence.
 - 🚀 Specialized in **Retrieval-Augmented Generation (RAG)** and **Agentic Workflows**.
 - 📍 Based in **Islamabad, Pakistan**, working with clients globally 🌍.
 - 💬 Ask me about **LLM fine-tuning**, **Vector Databases**, or **Scalable AI APIs**.
@@ -53,18 +53,6 @@
 </p>
 </details>
 
-<details>
-<summary><b>🗄️ Vector Databases & Infrastructure</b></summary>
-<br>
-<p>
-    <a href="#"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-000000.svg?style=flat-square"></a>
-    <a href="#"><img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-272045.svg?style=flat-square"></a>
-    <a href="#"><img alt="FAISS" src="https://img.shields.io/badge/FAISS-00599C.svg?style=flat-square"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white"></a>
-    <a href="#"><img alt="RunPod" src="https://img.shields.io/badge/RunPod-6126B4.svg?style=flat-square"></a>
-</p>
-</details>
-
 ---
 
 ## 🚀 Featured Projects
@@ -79,39 +67,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=hassanaiengineer&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanaiengineer&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="Hassan's streak" src="https://streak-stats.demolab.com/?user=hassanaiengineer&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/>
-  </a>
+  <img alt="Hassan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hassanaiengineer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
+  <img alt="Hassan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanaiengineer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Hassan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hassanaiengineer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-  </a>
+  <img alt="Hassan's Streak Stats" src="https://streak-stats.demolab.com/?user=hassanaiengineer&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="100%" />
 </p>
+
+<p align="center">
+  <img alt="Hassan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hassanaiengineer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" />
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanaiengineer/hassanaiengineer/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanaiengineer/hassanaiengineer/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hassanaiengineer/hassanaiengineer/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hassanaiengineer/hassanaiengineer/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
@@ -119,7 +95,7 @@
 ## 🤖 Dev Joke of the Day
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=react&qColor=%23F85D7F&aColor=%23F8D866&borderColor=%231F222E&bgColor=%231F222E" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&qColor=58a6ff&aColor=ffffff&borderColor=0d1117&bgColor=0d1117" alt="Jokes Card" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
