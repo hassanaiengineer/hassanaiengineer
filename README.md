@@ -10,6 +10,9 @@
   &#8287;
   <a href="mailto:hassanaiengineer@gmail.com"><img height="35" alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassanaiengineer&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
