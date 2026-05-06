@@ -29,7 +29,7 @@
 - 📍 Based in **Islamabad, Pakistan**, delivering high-impact AI ownership globally 🌍.
 - 💬 Ask me about **RAG failure modes**, **hallucination mitigation strategies**, or **designing scalable LLM APIs in production**.
 
-💡 *I don’t just integrate APIs — I design AI systems that actually work in production.*
+💡 *I don’t just integrate APIs - I design AI systems that actually work in production.*
 
 ---
 
