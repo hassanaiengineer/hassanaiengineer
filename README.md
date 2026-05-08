@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hassan-khan-4961b722b/"><img height="35" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;
-  <a href="https://www.upwork.com/freelancers/~016ca6a619d9683838"><img height="35" alt="Upwork" title="Upwork" src="https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+ 
   &#8287;
   <a href="mailto:hassanaiengineer@gmail.com"><img height="35" alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
