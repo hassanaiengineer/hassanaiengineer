@@ -160,11 +160,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hassanaiengineer&theme=dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanaiengineer&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=hassanaiengineer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hassanaiengineer&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
