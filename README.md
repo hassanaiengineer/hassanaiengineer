@@ -160,10 +160,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanaiengineer&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hassanaiengineer&theme=tokyonight&hide_border=true" />
 </p>
 
