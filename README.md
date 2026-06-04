@@ -167,6 +167,10 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hassanaiengineer&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanaiengineer&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+</p>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
